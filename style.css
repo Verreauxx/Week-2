@@ -1,0 +1,80 @@
+body {
+    background-color: tan;
+    flex-wrap: wrap;
+}
+
+.topnav {
+    text-align: right;
+    font-size: 30px;
+    color: white;
+    background-color: peru;
+    height: 50px;
+    margin: 0 -500%;
+    padding: 0 500% ;
+
+}
+
+header {
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    padding-top: 20px;
+    background-color: peru;
+    height: 200px;
+    margin: 0 -500%;
+    padding: 0 500% ;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: left;
+}
+
+.About {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: left;
+}
+
+h2 {
+    font-size: 100px;
+    text-align: left;
+}
+
+.Portfolio {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: left;
+    
+}
+
+h3 {
+    font-size: 100px;
+    text-align: left;
+}
+
+.Contact {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: left;
+}
+
+.footer {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    background-color: peru;
+    height: 100px;
+    margin: 0 -500%;
+    padding: 0 500% ;
+    padding-top: 50px;
+}
+
+
+
+
